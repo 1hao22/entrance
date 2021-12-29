@@ -40,14 +40,14 @@ height: 834px;
 .boxtittle1{
     position: absolute;
     color: rgba(103, 103, 103, 1);
-    bottom: 117px;
+    top: 580px;
     left: 110px;
     font-size: 40px;
     letter-spacing: 10px;
 }
 .boxinput1{
     position: absolute;
-    bottom: 95px;
+    top: 655px;
     left: 110px;
     color: rgba(158, 159, 159, 1);
     font-size: 24px;
@@ -56,14 +56,14 @@ height: 834px;
 .boxtittle2{
     position: absolute;
     color: rgba(103, 103, 103, 1);
-    bottom: 117px;
+    top: 580px;
     left: 660px;
     font-size: 40px;
     letter-spacing: 10px;
 }
 .boxinput2{
     position: absolute;
-    bottom: 95px;
+    top: 655px;
     left: 660px;
     color: rgba(158, 159, 159, 1);
     font-size: 24px;
@@ -71,7 +71,7 @@ height: 834px;
 }
 .boxinput3{
     position: absolute;
-    bottom: 65px;
+    top: 690px;
     left: 660px;
     color: rgba(158, 159, 159, 1);
     font-size: 24px;
