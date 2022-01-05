@@ -1,5 +1,5 @@
 *{
-    font-family: ‘cwTeXYen’, sans-serif;
+    font-family: 'cwTeXYen';
     font-weight: 700;
 }
 .background{
@@ -10,70 +10,148 @@ left: 0px;
 width: 1194px;
 height: 834px;
 }
-.teeth{
-    position: absolute;
-    left: 966px;
-    top: 0px;
-}
+
 .logo{
     position: absolute;
-    left: 78px;
-    top: 77px;    
+    left: 90px;
+    top: 35px;    
 }
-.box1{
-    position: absolute;
-    left: 83px;
-    top: 274px;
-}
-.box2{
-    position: absolute;
-    left: 631px;
-    top: 274px;
-}
+
 .tittle{
     color: white;
     font-size: 52px;
     position: absolute;
-    top: 39px;
-    left: 400px;
+    top: 10px;
+    left: 433px;
+}
+.germ{
+    position: absolute;
+    left: 973px;
+    top: 35px;    
+}
+.box1{
+    position: absolute;
+    left: 73px;
+    top: 195px;    
+}
+.box2{
+    position: absolute;
+    left: 601px;
+    top: 508px;    
+}
+.box3{
+    position: absolute;
+    left: 601px;
+    top: 195px;    
 }
 .boxtittle1{
     position: absolute;
-    color: rgba(103, 103, 103, 1);
-    top: 580px;
-    left: 110px;
-    font-size: 40px;
-    letter-spacing: 10px;
+    font-size: 45px;
+    left: 100px;
+    top: 193px;
+    color: white;
+    letter-spacing: 3px;
 }
-.boxinput1{
+.boxtext1{
     position: absolute;
-    top: 655px;
-    left: 110px;
-    color: rgba(158, 159, 159, 1);
     font-size: 24px;
-    letter-spacing: 5px;
+    left: 100px;
+    top: 270px;
+    color: white;
+    width: 260px;
+    line-height: 30px;
+    letter-spacing: 1px;
 }
 .boxtittle2{
     position: absolute;
-    color: rgba(103, 103, 103, 1);
-    top: 580px;
-    left: 660px;
-    font-size: 40px;
-    letter-spacing: 10px;
+    font-size: 45px;
+    left: 650px;
+    top: 240px;
+    color: white;
+    letter-spacing: 3px;
 }
-.boxinput2{
+.boxtext2{
     position: absolute;
-    top: 655px;
-    left: 660px;
-    color: rgba(158, 159, 159, 1);
     font-size: 24px;
-    letter-spacing: 5px;
+    left: 650px;
+    top: 320px;
+    color: white;
+    width: 280px;
+    line-height: 30px;
+    letter-spacing: 1px;
 }
-.boxinput3{
+.boxtittle3{
     position: absolute;
-    top: 690px;
-    left: 660px;
-    color: rgba(158, 159, 159, 1);
+    font-size: 45px;
+    left: 650px;
+    top: 545px;
+    color: white;
+    letter-spacing: 3px;
+}
+.boxtext3{
+    position: absolute;
     font-size: 24px;
-    letter-spacing: 5px;
+    left: 650px;
+    top: 625px;
+    color: white;
+    width: 280px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.icon{
+    position: absolute;
+    left: 300px;
+    top: 240px; 
+}
+.teeth{
+    position: absolute;
+    left: 34px;
+    top: 405px; 
+}
+.toothpaste{
+    position: absolute;
+    left: 311px;
+    top: 405px; 
+}
+.clear{
+    position: absolute;
+    left: 34px;
+    top: 605px; 
+}
+.sick{
+    position: absolute;
+    left: 311px;
+    top: 605px; 
+}
+.teethText{
+    position: absolute;
+    font-size: 45px;
+    left: 180px;
+    top: 435px;
+    color: rgba(58, 58, 58, 0.5);
+    letter-spacing: 1px;
+}
+.toothpasteText{
+    position: absolute;
+    font-size: 45px;
+    left: 433px;
+    top: 435px;
+    color: rgba(58, 58, 58, 0.5);
+    letter-spacing: 1px;
+}
+.clearText{
+    position: absolute;
+    font-size: 45px;
+    left: 180px;
+    top: 635px;
+    color: rgba(58, 58, 58, 0.5);
+    letter-spacing: 1px;
+}
+.sickText{
+    position: absolute;
+    font-size: 45px;
+    left: 433px;
+    top: 635px;
+    color: rgba(58, 58, 58, 0.5);
+    letter-spacing: 1px;
 }
